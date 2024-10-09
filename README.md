@@ -1,4 +1,4 @@
-# GRIMYATPA
+# GrimYATPA
 
 # Official Discord 
 
