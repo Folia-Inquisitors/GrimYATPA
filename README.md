@@ -10,7 +10,7 @@ mvn clean install
  
 ## Description
 
-This plugin will display fake players usernames using YATPA plugin.  This is meant to be a simple plugin for servers using FakePlayer. It is highly optimized and heavily tested. Feel free to constribute.
+This plugin will prevent players from being false flagged by Grim while using YATPA. This is meant to be a simple plugin for servers using FakePlayer. It is highly optimized and heavily tested. Feel free to constribute.
 
 ### Player commands 
 
