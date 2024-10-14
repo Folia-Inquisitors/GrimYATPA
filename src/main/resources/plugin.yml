@@ -2,4 +2,5 @@ name: GrimYATPA
 version: '${project.version}'
 main: me.hsgamer.grimyatpa.GrimYATPA
 api-version: '1.13'
+folia-supported: true
 depend: [ GrimAC, YATPA ]
