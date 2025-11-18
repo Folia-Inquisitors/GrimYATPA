@@ -12,6 +12,14 @@ mvn clean install
 
 This plugin will prevent players from being false flagged by Grim while using YATPA. This is meant to be a simple plugin for servers using FakePlayer. It is highly optimized and heavily tested. Feel free to constribute.
 
+### Hard Dependencies
+- [YATPA](https://github.com/Folia-Inquisitors/YATPA) *Purpose: A TPA plugin made for FakePlayers*
+
+### Soft Dependencies
+> - [FakePlayer](https://github.com/Folia-Inquisitors/FakePlayer) *Purpose: Generates fake players*
+> - [FakePlayerAPI](https://github.com/Folia-Inquisitors/FakePlayerAPI) *Purpose: Shows Player count on velocity*
+> - [FakePlayerYATPA](https://github.com/Folia-Inquisitors/FakePlayerYATPA) *Purpose: Purpose: Denies TPA requests to fake players*
+
 ### Player commands 
 
 ```
